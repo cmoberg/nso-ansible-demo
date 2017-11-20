@@ -109,5 +109,5 @@ ncs --stop
 ncs-setup --reset
 ncs-netsim stop
 ncs-netsim delete-network
-rm -rf packages state target scripts logs ncs-cdb storedstate README.netsim README.ncs ncs.conf
+rm -rf packages state target scripts logs ncs-cdb storedstate netsim README.netsim README.ncs ncs.conf
 ```
