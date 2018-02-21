@@ -1,3 +1,8 @@
+
+> This repository has been archived and the content has moved to the following new home:
+>  https://github.com/NSO-developer/nso-ansible-demo
+> Please go there for a more recent and better version of the demo.
+
 # Introduction
 
 This is an introduction on how to setup a small development environment with NSO and Ansible, including a couple of simulated devices and exercise the three NSO modules (`nso_action`, `nso_verify`, and `nso_configure`).
